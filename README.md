@@ -1,0 +1,2 @@
+# gitTest
+とりあえず初めてのGitHub
